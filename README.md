@@ -3,7 +3,6 @@
 [![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/entryvault-contact-form-7?label=version)](https://wordpress.org/plugins/entryvault-contact-form-7/)
 [![Rating](https://img.shields.io/wordpress/plugin/rating/entryvault-contact-form-7)](https://wordpress.org/plugins/entryvault-contact-form-7/#reviews)
 [![Downloads](https://img.shields.io/wordpress/plugin/dt/entryvault-contact-form-7)](https://wordpress.org/plugins/entryvault-contact-form-7/advanced/)
-[![Active Installs](https://img.shields.io/wordpress/plugin/installs/entryvault-contact-form-7)](https://wordpress.org/plugins/entryvault-contact-form-7/)
 [![Requires WP](https://img.shields.io/wordpress/plugin/wp-version/entryvault-contact-form-7)](https://wordpress.org/plugins/entryvault-contact-form-7/)
 [![Requires PHP](https://img.shields.io/wordpress/plugin/required-php/entryvault-contact-form-7)](https://wordpress.org/plugins/entryvault-contact-form-7/)
 [![License: GPL v2+](https://img.shields.io/badge/License-GPLv2%2B-blue.svg)](LICENSE)
